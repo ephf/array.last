@@ -3,13 +3,13 @@
 ### download:
 
 ```bash
-npm install last --save
+npm install arr.last --save
 ```
 
 ### use:
 
 ```javascript
-const last = require('last');
+require('arr.last');
 
 var array = [1, 2, 3, 4, 5];
 

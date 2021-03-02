@@ -1,0 +1,23 @@
+{
+  "name": "arr.last",
+  "version": "1.0.0",
+  "description": "get the last item in an array",
+  "main": "last.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephf/arrayLast.git"
+  },
+  "keywords": [
+    "last",
+    "array"
+  ],
+  "author": "ephf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephf/arrayLast/issues"
+  },
+  "homepage": "https://github.com/ephf/arrayLast#readme"
+}
